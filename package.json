@@ -1,0 +1,13 @@
+{
+  "name": "marzialigest-app",
+  "version": "1.0.0",
+  "description": "Gestionale ristorante completo pronto per Render",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
